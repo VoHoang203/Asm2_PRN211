@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Admin\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Member Management\frmAddMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Member Management\frmMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Member Management\frmReadMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Member Management\frmUpdateMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Order Management\frmAddOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Order Management\frmOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Order Management\frmReadOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Order Management\frmSalesStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Order Management\frmUpdateOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Product Management\frmAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Product Management\frmProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Product Management\frmReadProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Product Management\frmUpdateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Normal User\frmUserMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Normal User\User Orders\frmUserOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Normal User\User Profile\frmUserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Normal User\User Profile\frmUserUpdateProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
